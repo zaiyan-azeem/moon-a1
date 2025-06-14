@@ -41,6 +41,6 @@
 ### Installation
 
 ```bash
-git clone https://github.com/zaiyan-azeem/poketracker-dashboard.git
+git clone https://github.com/zaiyan-azeem/moon-a1.git
 cd poketracker-dashboard
 npm install
